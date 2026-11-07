@@ -1,8 +1,8 @@
-# iMessage 全量导出（macOS）
+# IMessageArchive
 
 把 Mac「信息」App 的聊天记录完整导出成本地可浏览的 HTML / CSV / JSON，**包括手写笔迹、数码点触、贴纸、图片、视频**。另附带一个无边记（Freeform）看板清单导出脚本。
 
-全部在本地运行，不联网、不上传任何数据。
+全部在本地运行，不联网、不上传任何数据。纯 Python 标准库，无第三方依赖。
 
 ```
 python3 export_imessage.py
