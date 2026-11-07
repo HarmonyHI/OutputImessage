@@ -1,0 +1,19 @@
+# 导出产物（含私人聊天记录，绝不要提交）
+iMessage导出_*/
+无边记导出_*/
+messages.csv
+messages.json
+index.html
+attachments/
+payloads/
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+
+# 系统 / 开发杂项
+.DS_Store
+.workbuddy/
+__pycache__/
+*.pyc
+.venv/
